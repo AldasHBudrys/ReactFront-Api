@@ -10,6 +10,8 @@ Displays movie posters, titles, and release years
 
 Search functionality for finding movies
 
+Favorite functionality
+
 Responsive and minimalist design
 
 
